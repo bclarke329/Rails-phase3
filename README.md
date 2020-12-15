@@ -11,10 +11,10 @@ Have you ever wanted to have all the shows or movies, you've been wanting to che
 
 Fork and clone this repository.
 <br>
-run `bundle install` in your terminal
+Run `bundle install` in your terminal
 <br>
-next, enter `rails s` to start the local host
+Next, enter `rails s` to start the local host
 <br>
-create a user profile, login, and start filling up your queue! 
+Create a user profile, login, and start filling up your queue! 
 
 
